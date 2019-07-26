@@ -8,5 +8,4 @@ def using_while
     levitation_force += 1
     break
 end
-end
 
